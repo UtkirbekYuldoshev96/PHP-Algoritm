@@ -1,1 +1,1 @@
-# PHP-Algoritm
+# PHP-Algoritmlash
